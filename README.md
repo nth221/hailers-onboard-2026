@@ -22,3 +22,4 @@ New hailers onboarding mini project records, 2026.
 | Date     | Contributor | Team   | Score   | Lboard# |
 | -------- | ----------- | ------ | ------- | ------- |
 | 7월 13일 | 해일러      | ZZZ    | 0.00000 | 9999    |
+| 7월 13일 | 최옥토      | 아무거나    | 0.80382 | 450    |
