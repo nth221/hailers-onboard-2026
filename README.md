@@ -10,7 +10,7 @@ New hailers onboarding mini project records, 2026.
 - 연구실 내 캡스톤 팀 간 경합으로, Kaggle에서 많이 언급되는 예측 문제를 지정하여, 각 leaderboard에 우리 이름과 성적을 올리는 것을 목표로 합니다.
 
 * 문제: https://www.kaggle.com/competitions/titanic/overview
-* 목표: 리더보드 -400-150등 이내 진입
+* 목표: 리더보드 ~~400~~150등 이내 진입
 * 규칙
   - 개별 제출: 1일 1인 최소 1회 이상 제출 필수
   - 팀 단위 경합: 팀원 중 최고 점수 기준으로 팀 경합
